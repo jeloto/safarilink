@@ -1,0 +1,18 @@
+.app{
+   background-color:  #d3d3d3; 
+   flex-direction: column;
+   align-items: center;
+   display: flex;
+  
+
+}
+
+.app_body{
+    display:flex;
+    margin-top:35px;
+    max-width: 1200px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+    
+}

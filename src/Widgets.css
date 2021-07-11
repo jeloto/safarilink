@@ -1,0 +1,25 @@
+.widgets{
+    
+
+   position:sticky;
+   margin-left: 100%;
+   flex: 0.2;
+   
+   padding:10px;
+   font-size: 10px;
+ 
+     
+     
+}
+.widgets__header  > h2{
+font-size: 16px;
+font-weight: 400;
+}
+.headers{
+margin-top: 10px;
+}
+
+.iframes{
+   margin-top: 10px;
+}
+
