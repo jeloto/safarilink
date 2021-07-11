@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/safarilink/static/css/main.f857d892.chunk.css",
+    "main.js": "/safarilink/static/js/main.c58848cf.chunk.js",
+    "main.js.map": "/safarilink/static/js/main.c58848cf.chunk.js.map",
+    "runtime-main.js": "/safarilink/static/js/runtime-main.b1441c5f.js",
+    "runtime-main.js.map": "/safarilink/static/js/runtime-main.b1441c5f.js.map",
+    "static/js/2.bbdabdb6.chunk.js": "/safarilink/static/js/2.bbdabdb6.chunk.js",
+    "static/js/2.bbdabdb6.chunk.js.map": "/safarilink/static/js/2.bbdabdb6.chunk.js.map",
+    "index.html": "/safarilink/index.html",
+    "static/css/main.f857d892.chunk.css.map": "/safarilink/static/css/main.f857d892.chunk.css.map",
+    "static/js/2.bbdabdb6.chunk.js.LICENSE.txt": "/safarilink/static/js/2.bbdabdb6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1441c5f.js",
+    "static/js/2.bbdabdb6.chunk.js",
+    "static/css/main.f857d892.chunk.css",
+    "static/js/main.c58848cf.chunk.js"
+  ]
+}
